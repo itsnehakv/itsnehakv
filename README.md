@@ -1,6 +1,6 @@
-#HI, my name is **Neha K.V** ^_^
+HI, my name is **Neha K.V** ^_^
 ---
-##Welcome to my GitHub
+Welcome to my GitHub
 ---
 ---
 
