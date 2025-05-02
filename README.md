@@ -1,24 +1,20 @@
 # <p align="center"> HI :sparkles:, my name is Neha K.V  </p>
 
 ## <p align="center"> 𐙚⋆.˚ Welcome to my GitHub 𐙚⋆.˚ </p>
-
+---
 ##  :star2: About Me
-<p> 🎓 Student at New Horizon College, Bengaluru <br>
+<p> 🎓 Computer Science student at New Horizon College, Bengaluru <br>
 👩‍💻 Passionate about Data Science, Software, Web and Game Development </p>
 
 ---
-## :computer: Programming Languages
-<p> :small_blue_diamond: Python <br>
-:small_blue_diamond: Java <br>
-:small_blue_diamond: SQL <br>
-:small_blue_diamond: HTML <br>
-</p>
-
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ---
-## :envelope: Contact Information
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
 
-[LinkedIn](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **itsnehakv/itsnehakv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
