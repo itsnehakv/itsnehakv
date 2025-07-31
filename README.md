@@ -1,6 +1,6 @@
 # <p align="center"> HI :sparkles:, my name is Neha K.V  </p>
 ---
-## <p align="center"> 𐙚⋆.˚ Welcome to my GitHub 𐙚⋆.˚ </p>
+## <p align="center"> ⋆.˚ Welcome to my GitHub ⋆.˚ </p>
 ---
 ##  :star2: About Me:
 <p> 🎓 Computer Applications undergrad at New Horizon College, Bengaluru <br>
