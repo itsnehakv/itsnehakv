@@ -3,7 +3,7 @@
 ## <p align="center"> 𐙚⋆.˚ Welcome to my GitHub 𐙚⋆.˚ </p>
 ---
 ##  :star2: About Me:
-<p> 🎓 Computer Science student at New Horizon College, Bengaluru <br>
+<p> 🎓 Computer Applications undergrad at New Horizon College, Bengaluru <br>
 👩‍💻 Passionate about Data Science, Software, Web and Game Development </p>
 
 ---
