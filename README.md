@@ -1,10 +1,11 @@
-# <p align="center"> HI :sparkles:, my name is Neha K.V  </p>
+# <p align="center"> HELLO :sparkles:, I am Neha  </p>
 ---
 ## <p align="center"> ⋆.˚ Welcome to my GitHub ⋆.˚ </p>
 ---
 ##  :star2: About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru <br>
-👩‍💻 Passionate about Data Science, Software, Web and Game Development </p>
+👩‍💻 Passionate about Data Science, Software, Web and Game Development 
+:seedling: Currently expanding knowledge on DSA</p>
 
 ---
 ## 💻 Tech Stack:
