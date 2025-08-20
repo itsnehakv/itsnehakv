@@ -4,7 +4,7 @@
 ---
 ##  :star2: About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru <br>
-👩‍💻 Passionate about Data Science, Software, Web & Game Development 
+👩‍💻 Passionate about Data Science, Software, Web & Game Development <br>
 🌱 Currently expanding knowledge on DSA</p>
 
 ---
