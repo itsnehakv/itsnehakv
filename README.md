@@ -20,7 +20,9 @@
 ---
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
-
+<br>
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2s4h7crxajoqxg1kooxggy0ro&cover_image=false&theme=default&show_offline=false&background_color=f2cae5&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
