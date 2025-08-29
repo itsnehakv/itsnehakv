@@ -8,6 +8,8 @@
 <p> 🎓 Computer Applications undergraduate from Bengaluru <br>
 👩‍💻 Passionate about Data Science, Software, Web & Game Development <br>
 🌱 Currently expanding my knowledge on DSA</p>
+🗨️ Actively looking for a mentor to help guide my growth in Machine Learning and Data Science<br>
+📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!
 
 ---
 ## 💻 Tech Stack:
@@ -22,8 +24,9 @@
 
 ---
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
-<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nehakvallappil@gmail.com)
+
 ---
 <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
