@@ -25,8 +25,7 @@
 ---
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nehakvallappil@gmail.com)
-
+<br>
 ---
 <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
