@@ -7,8 +7,8 @@
 ##  :star2: About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru <br>
 👩‍💻 Passionate about Data Science, Software, Web & Game Development <br>
-🌱 Currently expanding my knowledge on DSA
-🗨️ Actively looking for a mentor to help guide my growth in Machine Learning and Data Science<br>
+🌱 Currently expanding my knowledge on DSA<br>
+🗨️ Actively looking for a mentor to help guide my growth in Machine Learning & Data Science<br>
 📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!</p>
 
 ---
