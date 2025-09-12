@@ -1,6 +1,6 @@
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
-# <p align="center"> HELLO :sparkles:  </p>
+# <p align="center"> HELLO, I am Neha :sparkles:  </p>
 ---
 ## <p align="center"> ⋆.˚ Welcome to my GitHub ⋆.˚ </p>
 ---
