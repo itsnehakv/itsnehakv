@@ -1,8 +1,8 @@
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
-## <p align="center">  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Hi!+I'm+Neha!+A+CS+student.)</p>
+## <p align="center">Hi! I am Neha </p>
 ---
-## <p align="center"> ⋆.˚ Welcome to my GitHub ⋆.˚ </p>
+## <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+⋆.˚+Welcome+to+my+GitHub+⋆.˚+<.) </p>
 ---
 ##  :star2: About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru <br>
