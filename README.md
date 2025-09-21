@@ -1,6 +1,6 @@
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⚡+Hi!+I'm+Neha.)</p>
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Hi!++I'm++Neha.)</p>
 ---
 ## <p align="center"> ⋆.˚ Welcome to my GitHub ⋆.˚ </p>
 ---
