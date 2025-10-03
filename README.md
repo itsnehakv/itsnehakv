@@ -22,7 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
----
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
