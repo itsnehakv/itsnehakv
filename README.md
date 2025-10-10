@@ -2,7 +2,7 @@
 
 ## <p align="center">Hi! I am Neha </p>
 
-## <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+⋆.˚+Welcome+to+my+GitHub+⋆.˚+<.) </p>
+## <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+⋆.˚+Hi!+I+am+Neha+⋆.˚+<.+) </p>
 
 
 ## <p align="center">![Extended Network Banners](http://dl9.glitter-graphics.net/pub/2075/2075419ztmpwqi9cb.gif) </p>
