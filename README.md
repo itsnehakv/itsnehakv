@@ -8,7 +8,7 @@
 ## <p align="center">![Extended Network Banners](http://dl9.glitter-graphics.net/pub/2075/2075419ztmpwqi9cb.gif) </p>
 
 
-##  :star2: About Me:
+##  🪻 | About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru <br>
 👩‍💻 Passionate about Data Science, Software, Web & Game Development <br>
 🌱 Currently expanding my knowledge on DSA<br>
@@ -16,7 +16,7 @@
 📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!</p>
 <br>
 
-## 💻 Tech Stack:
+## 💻 | Tech Stack:
 ### Programming Languages:<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 <br>
-## 🌐 Social:
+## 🌐 | Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
 
 <br>
