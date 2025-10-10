@@ -24,6 +24,9 @@
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnehakv)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **itsnehakv/itsnehakv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
