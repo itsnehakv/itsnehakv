@@ -1,16 +1,14 @@
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
-## <p align="center">Hi! I am Neha </p>
-
-## <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+⋆.˚+Hi!+I+am+Neha+⋆.˚+<.+) </p>
+<!-- ## <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+⋆.˚+I+am+Neha+⋆.˚+<.+) </p> -->
 
 
 ## <p align="center">![Extended Network Banners](http://dl9.glitter-graphics.net/pub/2075/2075419ztmpwqi9cb.gif) </p>
 
 
 ##  🪻 | About Me:
-<p> 🎓 Computer Applications undergraduate from Bengaluru <br>
-👩‍💻 Passionate about Data Science, Software, Web & Game Development <br>
+<p> 🎓 Computer Applications undergraduate from Bengaluru  <br>
+👩‍💻 Interested in Data Science, Software & Game Development <br>
 🌱 Currently expanding my knowledge on DSA<br>
 🗨️ Actively looking for a mentor to help guide my growth in Machine Learning & Data Science<br>
 📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!</p>
