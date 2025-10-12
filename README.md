@@ -9,7 +9,7 @@
 ##  🪻 | About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru  <br>
 👩‍💻 Interested in Data Science, Software & Game Development <br>
-🌱 Currently expanding my knowledge on DSA<br>
+🌱 Currently working on Exploratory Data Analysis projects in Python<br>
 🗨️ Looking for a mentor or community to help guide my growth in Machine Learning & Data Science<br>
 📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!</p>
 <br>
