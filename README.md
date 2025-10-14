@@ -1,4 +1,4 @@
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=itsnehakv)
 
 <!-- ## <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+⋆.˚+I+am+Neha+⋆.˚+<.+) </p> -->
 
