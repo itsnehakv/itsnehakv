@@ -8,7 +8,7 @@
 ##  🪻 | About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru  <br>
 👩‍💻 Interested in Data Science, Software & Game Development <br>
-🌱 Currently working on Java projects<br>
+🌱 Currently working on JavaScript projects<br>
 🗨️ Looking for a mentor or community to help guide my growth in Machine Learning & Data Science<br>
 📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!</p>
 <br>
