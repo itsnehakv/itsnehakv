@@ -31,9 +31,6 @@
 ## 🌐 | Social:
 🟦 | **LinkedIn:** [Neha Kalamulla Vallappil](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/) <br>
 ✉️ | **Email:** [nehakvallappil@gmail.com](mailto:nehakvallappil@gmail.com?subject=[GitHub])<br><br>
-
-## 📊 | Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnehakv)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **itsnehakv/itsnehakv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
