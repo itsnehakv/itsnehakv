@@ -7,10 +7,9 @@
 
 ##  🪻 | About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru  <br>
-👩‍💻 Interested in Data Science, Software & Game Development <br>
-🌱 Currently working on JavaScript projects<br>
-🗨️ Looking for a mentor or community to help guide my growth in Machine Learning & Data Science<br>
-📲 If you're open to sharing your experience or just having a conversation, feel free to reach out!</p>
+👩‍💻 Interested in Software Engineering, Full-Stack development, Game development & Machine learning. <br>
+🌱 Currently: Building full-stack applications with the MERN stack and exploring Machine Learning.<br>
+🗨️ I’m looking for a mentor or developer community in the SWE space to guide me on system design and full-stack. 
 <br>
 
 ## 💻 | Tech Stack:
