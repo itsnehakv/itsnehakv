@@ -33,12 +33,10 @@
 ## 🌐 | Social:
 🟦 | **LinkedIn:** [Neha Kalamulla Vallappil](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/) <br>
 ✉️ | **Email:** [nehakvallappil@gmail.com](mailto:nehakvallappil@gmail.com?subject=[GitHub])<br><br>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsnehakv&theme=dracula&hide_border=true&border_radius=4.7&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
 <!--
-**itsnehakv/itsnehakv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
