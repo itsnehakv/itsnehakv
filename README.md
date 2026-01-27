@@ -34,7 +34,9 @@
 🟦 | **LinkedIn:** [Neha Kalamulla Vallappil](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/) <br>
 ✉️ | **Email:** [nehakvallappil@gmail.com](mailto:nehakvallappil@gmail.com?subject=[GitHub])<br><br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsnehakv&theme=dracula&hide_border=true&border_radius=4.7&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+ <p align="center">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnehakv&show_icons=true&locale=en&layout=compact" alt="itsnehakv" />
+ </p>
 
 <!--
 - 🔭 I’m currently working on ...
