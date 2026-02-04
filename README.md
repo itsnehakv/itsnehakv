@@ -31,7 +31,7 @@
 <br>
 <br>
 ## 🌐 | Social:
-🟦 | **LinkedIn:** [Neha Kalamulla Vallappil](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/) <br>
+🟦 | **LinkedIn:** [Neha K Vallappil](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/) <br>
 ✉️ | **Email:** [nehakvallappil@gmail.com](mailto:nehakvallappil@gmail.com?subject=[GitHub])<br><br>
 
  <p align="center">
