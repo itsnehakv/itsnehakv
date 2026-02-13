@@ -34,10 +34,6 @@
 🟦 | **LinkedIn:** [Neha K Vallappil](https://www.linkedin.com/in/neha-kalamulla-vallappil-240178323/) <br>
 ✉️ | **Email:** [nehakvallappil@gmail.com](mailto:nehakvallappil@gmail.com?subject=[GitHub])<br><br>
 
- <p align="center">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnehakv&show_icons=true&locale=en&layout=compact" alt="itsnehakv" />
- </p>
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
