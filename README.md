@@ -8,7 +8,7 @@
 ##  🪻 | About Me:
 <p> 🎓 Computer Applications undergraduate from Bengaluru  <br>
 👩‍💻 Interested in Software Engineering, Full-Stack development, Game development & Machine learning. <br>
-🌱 Currently: Building full-stack applications with the MERN stack and exploring Machine Learning.<br>
+🌱 Currently: Building full-stack applications, exploring Machine Learning & working on my college final year project.<br>
 🗨️ I’m looking for a mentor or developer community in the SWE space to guide me on system design and full-stack. 
 <br>
 
