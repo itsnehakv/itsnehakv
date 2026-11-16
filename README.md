@@ -6,10 +6,10 @@
 
 
 ##  🪻 | About Me:
-<p> 🎓 Computer Applications undergraduate from Bengaluru  <br>
-👩‍💻 Interested in Software Engineering, Full-Stack development, Game development & Machine learning. <br>
-🌱 Currently: Building full-stack applications, exploring Machine Learning & working on my college final year project.<br>
-🗨️ I’m looking for a mentor or developer community in the SWE space to guide me on system design and full-stack. 
+<p> 🎓 Master of Computer Applications (MCA) student in Bengaluru | BCA Graduate <br>
+👩‍💻 Interested in Backend Systems Engineering, Database Architecture & Full-Stack Development. <br>
+🌱 Currently: Building resilient, high-concurrency backend systems with Java (Spring Boot) & Python (FastAPI), and diving deeper into database optimization.<br>
+🗨️ Open to connecting with fellow developers and discussing system design, distributed systems, and backend engineering.
 <br>
 
 ## 💻 | Tech Stack:
